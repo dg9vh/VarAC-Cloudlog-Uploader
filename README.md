@@ -1,2 +1,1 @@
-# VarAC-Cloudlog-Uploader
-VarAC Cloudlog Uploader
+﻿﻿﻿# VarAC-Cloudlog-UploaderVarAC Cloudlog Uploader is a script that starts a service to upload log-entries from VarAC to your Cloudlog-instance.Your configuration is made within the ini-file, where you should enter the URL to the API-endpoint and the api-key. Also you should configure the station-id.On VarAC-Side you configure a DXKeeper(TCP) connection to the defaults (localhost and port 52001), if you are running the script on the same host as VarAC is running. Otherwise you take the corresponding IP-address to the host running this script.
